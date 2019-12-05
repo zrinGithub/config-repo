@@ -1,1 +1,2 @@
 database.name: "POSTGRESQL"
+example.property: "I AM IN THE DEFAULT"
